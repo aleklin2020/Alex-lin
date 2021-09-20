@@ -19,7 +19,6 @@ ____
 ![Git](/svg/git.svg)
 ![Webpack](/svg/webpack.svg)
 ![Bem](/svg/bem.svg)
-![Figma](/svg/figma.svg)
 
 
 
